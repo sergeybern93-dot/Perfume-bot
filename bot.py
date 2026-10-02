@@ -10,7 +10,7 @@ from telegram.ext import (
 
 # --- НАСТРОЙКИ ---
 # Вставьте сюда ваши ключи внутрь кавычек!
-TELEGRAM_BOT_TOKEN = "8395064309:AAEpYiQ3nprUEQNrhBRfzvSpPwW5K..."
+TELEGRAM_BOT_TOKEN = "8395064309:AAGUiTCNdmyJNOS_LOHY4Gp-OkP95onmfVk"
 WEATHER_API_KEY = "4711b9817b39eb1aa4ae907c2702032d"
 CITY = "Moscow"
 DB_FILE = "perfumes.json"
