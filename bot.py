@@ -1,5 +1,3 @@
-8395064309:AAEpYiQ3nprUEQNrhBRfzvSpPwW5KPGWt5E
-4711b9817b39eb1aa4ae907c2702032d
 import logging
 import json
 import os
@@ -12,8 +10,8 @@ from telegram.ext import (
 
 # --- НАСТРОЙКИ ---
 # Вставьте сюда ваши ключи внутрь кавычек!
-TELEGRAM_BOT_TOKEN = "ВАШ_ТЕЛЕГРАМ_ТОКЕН"
-WEATHER_API_KEY = "ВАШ_OPENWEATHER_API_KEY"
+TELEGRAM_BOT_TOKEN = "8395064309:AAEpYiQ3nprUEQNrhBRfzvSpPwW5K..."
+WEATHER_API_KEY = "4711b9817b39eb1aa4ae907c2702032d"
 CITY = "Moscow"
 DB_FILE = "perfumes.json"
 
